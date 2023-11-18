@@ -1,0 +1,29 @@
+Here are the connections for your pocket computer project:
+
+OLED Display:
+- Connect GND (Ground) of the OLED to GND on the Arduino.
+- Connect VCC (Power) of the OLED to 5V on the Arduino.
+- Connect SCL (Serial Clock) of the OLED to A5 on the Arduino.
+- Connect SDA (Serial Data) of the OLED to A4 on the Arduino.
+
+Potentiometer:
+- Connect the left pin (GND) of the potentiometer to GND on the Arduino.
+- Connect the right pin (VCC/5V) of the potentiometer to 5V on the Arduino.
+- Connect the middle pin (wiper/SIG) of the potentiometer to A0 on the Arduino.
+
+Buzzer:
+- Connect one pin of the buzzer to GND on the Arduino.
+- Connect the other pin of the buzzer to D9 on the Arduino.
+
+Push Buttons (Three Buttons):
+- Connect one side of each push button to GND on the Arduino.
+- Connect the other side of each push button to separate digital pins on the Arduino: D4, D5, and D6.
+
+LED Indicator:
+- Connect one leg of the LED (the longer one, anode, positive side) to a 1k ohm current-limiting resistor.
+- Connect the other end of the current-limiting resistor to digital pin D7 on the Arduino.
+- Connect the shorter leg of the LED (cathode, negative side) directly to GND on the Arduino.
+
+Please ensure that all connections are secure, and double-check for any wiring errors before powering up your project. If you have specific values for your LED and resistor, use those values for the current-limiting resistor.
+
+Happy building, and feel free to ask if you have any more questions!
