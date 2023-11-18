@@ -1,0 +1,39 @@
+What u need???????
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Arduino NANO
+
+OLED Display -- 128 x 64 px
+
+Resistor for LED -- Reccomend - 1k  but i can use - 330 ohm
+
+PCB (Printed Circuit Board)
+
+Push Buttons 2pin - 3*
+
+Potentiometer 10k ohm
+
+Passive Buzzer
+
+LED
+
+Battery - 600mah but i can use 3.7voltBattery
+
+Slide button 3 pin (You want slide buzon with three pins, slide button is just used to cut of battery power, you can power this project with usb on arduino nano, first try to run this on breadboard, belive this is more important then compinents)
+
+Female Headers 3*
+
+Male Header 2*
+
+4 Nuts 
+
+4 spacer fascinating screw
+
+<{[(\ u need a  "" soldering iron  "" for soldering the componets with the pcb
+
+
+this is only needed 
+
+BYE!!!!!
+
