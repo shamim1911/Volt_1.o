@@ -8,7 +8,9 @@ OLED Display -- 128 x 64 px
 
 Resistor for LED -- Reccomend - 1k  but i can use - 330 ohm
 
-PCB (Printed Circuit Board)
+PCB (Printed Circuit Board) {AFTER TESTING}
+
+Breadboard (For Testing Before in PCB)
 
 Push Buttons 2pin - 3*
 
